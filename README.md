@@ -4,7 +4,7 @@
 Objectives:
 Check your understanding of Python program formatting
 Debug Python scripts that are not working
-Explain what a syntax error is
+Explain what a syntax error is: A syntax error is an error in the way that the source code for the program is written.
 
 Software can have **bugs**.  A software bug is an error in programming that causes the program to stop working, have unexpected results or behave in unexpected ways.  The term comes from early computing days when an actual bug (a moth, in fact) flew into and damaged one of the first comptuers, the Mark II (Wikipedia) Bugs are typically errors in the source code that can be either *syntax errors* or *semantic errors* (also called *logical errors*).
 
